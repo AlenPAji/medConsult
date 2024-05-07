@@ -1,0 +1,17 @@
+.disease-page-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .input-field-container {
+    margin-top: 20px;
+  }
+  
+  .input-field-container input {
+    width: 300px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
